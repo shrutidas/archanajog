@@ -126,7 +126,7 @@ if(isset($_POST['name'])) {
 					<div class="navbar-collapse collapse justify-content-end me-5" id="slide-navbar-collapse">
 						<ul id="slide-down" class="navbar-nav gap-4">
 							<li><a href="#billboard" class="nav-link active">Home</a></li>
-							<li><a href="#about" class="nav-link">About me</a></li>
+							<li><a href="about.html" class="nav-link">About me</a></li>
 							<li><a href="#portfolio" class="nav-link">Portfolio</a></li>
 							<li><a href="#blog" class="nav-link">Blog</a></li>
 							<li><a href="#contact" class="nav-link">Contact</a></li>

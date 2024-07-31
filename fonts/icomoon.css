@@ -91,6 +91,9 @@
 .icon-instagram:before {
   content: "\f16d";
 }
+.icon-imdb:before {
+  content: "\f2d8";
+}
 .icon-pinterest-p:before {
   content: "\f231";
 }
